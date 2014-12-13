@@ -1,0 +1,10 @@
+c:\users\dimitrije\documents\visual studio 2013\Projects\ConverterGUI\ConverterGUI\bin\Debug\ConverterGUI.exe.config
+c:\users\dimitrije\documents\visual studio 2013\Projects\ConverterGUI\ConverterGUI\obj\Debug\ConverterGUI.csprojResolveAssemblyReference.cache
+c:\users\dimitrije\documents\visual studio 2013\Projects\ConverterGUI\ConverterGUI\obj\Debug\ConverterGUI.Form1.resources
+c:\users\dimitrije\documents\visual studio 2013\Projects\ConverterGUI\ConverterGUI\obj\Debug\ConverterGUI.Properties.Resources.resources
+c:\users\dimitrije\documents\visual studio 2013\Projects\ConverterGUI\ConverterGUI\obj\Debug\ConverterGUI.csproj.GenerateResource.Cache
+c:\users\dimitrije\documents\visual studio 2013\Projects\ConverterGUI\ConverterGUI\bin\Debug\ConverterGUI.exe
+c:\users\dimitrije\documents\visual studio 2013\Projects\ConverterGUI\ConverterGUI\bin\Debug\ConverterGUI.pdb
+c:\users\dimitrije\documents\visual studio 2013\Projects\ConverterGUI\ConverterGUI\obj\Debug\ConverterGUI.exe
+c:\users\dimitrije\documents\visual studio 2013\Projects\ConverterGUI\ConverterGUI\obj\Debug\ConverterGUI.pdb
+C:\Users\Dimitrije\documents\visual studio 2013\Projects\ConverterGUI\ConverterGUI\obj\Debug\ConverterGUI.Form2.resources
